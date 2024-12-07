@@ -829,5 +829,14 @@
   },
   "confirmParameters": {
     "message": "Confirmar Parâmetros"
+  },
+  "searchingForRealKey": {
+    "message": "Procurando pela chave real"
+  },
+  "verifying": {
+    "message": "Verificando"
+  },
+  "realKeyNotFound": {
+    "message": "Chave real não encontrada"
   }
 }
